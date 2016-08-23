@@ -1,6 +1,6 @@
 ## snes-rd
 
-USB SNES Cartridge Reader.
+USB SNES Cartridge Reader firmware.
 
 ![snes-rd_snes-pad.png](pictures/snes-rd_snes-pad.png?raw=true)
 ![snes-rd_top.png](pictures/snes-rd_top.png?raw=true)
@@ -10,7 +10,7 @@ USB SNES Cartridge Reader.
 
 ### What is snes-rd?
 
-snes-rd is a USB SNES Cartridge Reader based on the Atmel AT90USB1286
+snes-rd is USB SNES Cartridge Reader firmware based on the Atmel AT90USB1286
 microcontroller and Dean Camera's LUFA library. This project implements a USB
 Mass Storage class device and works similarly to a flash drive; plug it in,
 insert cartridge, and play the game using your favorite emulator.

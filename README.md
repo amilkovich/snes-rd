@@ -1,6 +1,6 @@
 ## snes-rd
 
-USB SNES Cartridge Reader
+USB SNES Cartridge Reader.
 
 ![snes-rd_snes-pad.png](pictures/snes-rd_snes-pad.png?raw=true)
 ![snes-rd_top.png](pictures/snes-rd_top.png?raw=true)
